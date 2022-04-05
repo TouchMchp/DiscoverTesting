@@ -4,7 +4,8 @@ parent: T10 Xplained Pro Mutual Capacitance Examples
 title: SAML10 Xplained Pro
 has_toc: false
 ---
-[![MCHP](https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png)](https://www.microchip.com)
+![Microchip logo](../../../images/microchip_logo.png)
+![Harmony logo small](../../../images/microchip_mplab_harmony_logo_small.png)
 
 #  SAML10 Xplained Sensor Example using T10 Xplained Pro Mutual 
 
