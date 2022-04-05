@@ -4,8 +4,8 @@ parent: QT1 Xplained Pro Self Capacitance Examples
 title: SAMD20 Xplained Pro
 has_toc: false
 ---
-[![MCHP](https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png)](https://www.microchip.com)
-
+![Microchip logo](../../../images/microchip_logo.png)
+![Harmony logo small](../../../images/microchip_mplab_harmony_logo_small.png)
 #  SAMD20 Xplained Sensor Example using QT1 Xplained Pro Self 
 
 Path of the application within the repository is **apps/qt1_selfcap_xpro_board/firmware**

@@ -4,9 +4,8 @@ parent: Onboard Single Touch Button Examples
 title: SAML22 Xplained Pro
 has_toc: false
 ---
-![Microchip logo](https://raw.githubusercontent.com/wiki/Microchip-MPLAB-Harmony/Microchip-MPLAB-Harmony.github.io/images/microchip_logo.png)
-![Harmony logo small](https://raw.githubusercontent.com/wiki/Microchip-MPLAB-Harmony/Microchip-MPLAB-Harmony.github.io/images/microchip_mplab_harmony_logo_small.png)
-
+![Microchip logo](../../../images/microchip_logo.png)
+![Harmony logo small](../../../images/microchip_mplab_harmony_logo_small.png)
 #  SAML22 Xplained Pro Onboard Sensor Example
 
 ## Downloading and building the application
