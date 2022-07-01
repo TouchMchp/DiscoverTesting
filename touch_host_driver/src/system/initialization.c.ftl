@@ -1,3 +1,0 @@
-    
-     touchDeviceInit(); 
-     touchTuneInit();
