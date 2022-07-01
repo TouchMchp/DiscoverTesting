@@ -10,7 +10,7 @@ has_toc: false
 
 #  SAMD10 Xplained Mini Onboard Sensor Example
 
-Path of the application within the repository is **apps/onboard_sensor/firmware/**
+Path of the application within the repository is **apps/onboard_sensor/firmware version1/**
 
 To build the application, refer to the following table and open the project using its IDE.
 
